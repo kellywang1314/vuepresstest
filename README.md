@@ -9,7 +9,8 @@
   - quick_start 首页快速上手，方便跳转到文档链接
   - .vuepress是vuepress必须的配置文件，包含config.js配置文件/样式/静态资源等。
   - component 存放组件库每个组件的md文档
-  ![](./images/docs.jpeg)
+  
+      ![](./images/docs.jpeg)
 
 
 2. package.json中增加
