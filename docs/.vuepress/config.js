@@ -67,6 +67,7 @@ module.exports = {
         collapsable: false,
         children: [
           'component/color',
+          'component/text',
 
         ]
       },
