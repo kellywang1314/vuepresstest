@@ -2,7 +2,7 @@ const path = require('path');
 const moment = require('moment')
 
 module.exports = {
-  base: '/vuepresstest/',
+  // base: '/public/',
   dest: 'public',
   title: 'h5-koala 使用指南',
   description: 'h5 UI 组件库',
